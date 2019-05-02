@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ce96565-f2d4-4b58-9abd-3647d1711db5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-client.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-client.yml" afterDir="false" />
-    </list>
+    <list default="true" id="0ce96565-f2d4-4b58-9abd-3647d1711db5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,12 +106,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556807489894</updated>
-      <workItem from="1556807491527" duration="853000" />
+      <workItem from="1556807491527" duration="1284000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="853000" />
+    <option name="totallyTimeSpent" value="1284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
